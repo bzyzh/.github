@@ -5,18 +5,10 @@
 
 <p align="center">我们正在使用以下语言开发</p>
 
-<p align="center">  
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java">
-</a>
-<!-- <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
-</a> -->
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=028dd1">
+<p align="center">
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,js,java,python,c,mysql,kotlin,markdown,json,yaml,xml,bash,git,gradle&includeNames=true" alt="GitHub WidgetBox" />
+  </a>
 </p>
 
 
